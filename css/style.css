@@ -174,7 +174,7 @@ header .ham-burger.active span:nth-child(2) {
 
 .home {
     height: 100vh;
-    background-image: url("2465431.jpg");
+    background-image: url("./2465431.jpg");
     background-size: cover;
     padding: 15px;
     -webkit-display: flex;
